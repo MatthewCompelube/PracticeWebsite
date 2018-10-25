@@ -1,0 +1,54 @@
+/* Matthew Compelube */
+/* CS 328 */
+/* 4/15/2018 */
+
+img
+{
+    float: left;
+}
+
+body
+{
+    background-color: coral;
+}
+
+p
+{
+    border-style: solid;
+    color: black;
+    font-weight: bold;
+	padding: 1em 1em 1em 1em;
+}
+
+form
+{
+    border-style: solid;
+    border-color: black;
+	margin: 2em;
+}
+
+label
+{
+    color: mediumblue;
+	font-weight: bold;
+}
+
+a
+{
+	color: dodgerblue;
+}
+
+h3
+{
+	text-align: center;
+}
+
+h1
+{
+	text-align: center;
+}
+
+button
+{
+	margin: 2em;
+}

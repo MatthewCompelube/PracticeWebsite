@@ -1,0 +1,38 @@
+/* Matthew Compelube */
+/* CS 328 */
+
+body
+{
+     background-color: olivedrab;
+}
+
+label
+{
+     font-weight: bold;
+}
+
+input
+{
+     margin-top: .5em;
+     margin-bottom 2em;
+}
+
+form
+{
+     color: darkorange;
+}
+
+h2
+{
+     border-style: solid;
+}
+
+h3
+{
+     border-style: dotted;
+}
+
+a
+{
+	margin-top: 2em;
+}
